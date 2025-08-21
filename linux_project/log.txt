@@ -1,0 +1,10 @@
+=================
+   COMMAND LOG
+=================
+
+1. ls
+2. pwd
+3. cd Documents
+4. cat profile.txt
+5. grep "linux" commands.txt
+

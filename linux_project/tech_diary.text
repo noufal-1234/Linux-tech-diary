@@ -1,0 +1,38 @@
+████████╗███████╗ ██████╗██╗  ██╗    ██████╗ ██╗███████╗██████╗ ██╗   ██╗
+╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██║██╔════╝██╔══██╗╚██╗ ██╔╝
+   ██║   █████╗  ██║     ███████║    ██████╔╝██║█████╗  ██████╔╝ ╚████╔╝ 
+   ██║   ██╔══╝  ██║     ██╔══██║    ██╔═══╝ ██║██╔══╝  ██╔═══╝   ╚██╔╝  
+   ██║   ███████╗╚██████╗██║  ██║    ██║     ██║███████╗██║        ██║   
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚═╝        ╚═╝   
+                                                                         
+====================
+      PROFILE
+====================
+
+Name      : Muhammed Noufal N
+Roll No   : 23CS123
+
+===========================
+   FAVORITE LINUX COMMANDS
+===========================
+
+1. ls   - Lists files and directories in the current directory.
+2. pwd  - Shows the present working directory.
+3. cd   - Changes the current directory.
+4. cat  - Displays the contents of a file.
+5. grep - Searches for a pattern in a file.
+
+=================
+   COMMAND LOG
+=================
+
+1. ls
+2. pwd
+3. cd Documents
+4. cat profile.txt
+5. grep "linux" commands.txt
+
+───────────────────────────────────────────────
+  "Stay curious, keep learning, and never stop
+   exploring the command line!"
+───────────────────────────────────────────────

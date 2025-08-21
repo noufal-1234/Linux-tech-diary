@@ -1,0 +1,5 @@
+1.ls - Lists files and directories in the current directory.
+2.pwd - Shows the present working directory.
+3.cd - Changes the current directory.
+4.cat - Displays the content of a file.
+5.grep - Searches for a pattern in a file.
